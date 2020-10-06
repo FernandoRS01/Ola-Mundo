@@ -3,4 +3,4 @@
  
  Repositório criado na aula do curso em video 06/10/2020.
  
-Essa linha foi adicionada no site do GiHub.
+Essa linha foi eu adicionei diretamente no site.
